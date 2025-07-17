@@ -1,1 +1,1 @@
-Wenhui Zhou, Luwei Ren, Junle Yu*, Nian Qu, Guojun Dai*. Boosting RGB-D Point Cloud Registration via Explicit Position-Aware Geometric Embedding. IEEE Robotics and Automation Letters. 2024, 9(6): 5839-5846.
+[**Wenhui Zhou**](https://faculty.hdu.edu.cn/jsjxy/zwh_en/main.htm), Luwei Ren, Junle Yu*, Nian Qu, Guojun Dai*. [**Boosting RGB-D Point Cloud Registration via Explicit Position-Aware Geometric Embedding**](https://doi.org/10.1109/LRA.2024.3397538). IEEE Robotics and Automation Letters. 2024, 9(6): 5839-5846.
